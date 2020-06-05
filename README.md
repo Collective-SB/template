@@ -10,11 +10,11 @@ The prerequsites needed for this project to work, software, libraries, etc (If u
 
 A step-by-step guide of installing this project on a system, to allow easy on-boarding of developers (If unessessary, delete this section)
 
-## Running the tests
+## Tests Present
 
 Explain the tests present in this project (If unessessary, delete this section)
 
-### And coding style tests
+### Coding Style
 
 Please include the coding styles present in this project (Note: This should be PEP8 unless authorisation is given by Solon#4472)
 
