@@ -16,7 +16,7 @@ Explain the tests present in this project (If unessessary, delete this section)
 
 ### Coding Style
 
-Please include the coding styles present in this project (Note: This should be PEP8 unless authorisation is given by Solon#4472)
+Please include the coding styles present in this project (Note: This should be [PEP8](https://www.python.org/dev/peps/pep-0008/) in a Python Project or [Airbnb](https://github.com/airbnb/javascript) Coding Style in a JavaScript/TypeScript Project unless authorisation is given by Solon#4472)
 
 ## Built With
 
